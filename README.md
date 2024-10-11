@@ -1,5 +1,5 @@
-# 💫 About Me:
-:mortar_board: I'm currently studying Computer Science at BRAC University, Bangladesh<br>:computer:Currently learning Cyber Security and MERN stack in my free time
+# About Me:
+:mortar_board: I'm currently studying Computer Science at BRAC University, Bangladesh<br>:computer: Currently learning Cyber Security and MERN stack in my free time
 
 
 ## 🌐 Socials:
